@@ -1,0 +1,10 @@
+ # We are creating with the help of vite 
+ 1 -> npm create vite@latest
+ 2 -> project name : -----------
+ 3 -> select frontend : like React 
+ 4 -> select javascript .
+
+ and then they suggest 
+ cd project name 
+ npm install // it help to install node modules 
+ npm run dev  // it helps to start server 

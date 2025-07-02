@@ -1,0 +1,8 @@
+-> A small piece 
+->  if we don't want to create a extra space or div anything we use this tag :
+<>
+-
+-
+-
+</>
+that command don't create any extra node .that's we called fragment .

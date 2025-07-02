@@ -1,0 +1,23 @@
+->Node Modules  [for dependencies]
+->public [For image ]
+->src //Main folder 
+->src -> assests [this is a react image ]
+->src ->App.css [
+    1 -> this is the css file for APP.jsx file
+
+]
+->src ->App.jsx[
+    1 -> all thing is inner that onlt and there subparts is everywhere .
+    2-> html+js ]
+->src ->index.css
+->src >main.jsx  // we import or required as well as  , we access the root element  , and in root element we render the app component . and app component comes from app.jsx  , 
+
+->index.html //its a main page [we add element here ]
+
+-> and rather then is common there is no rocket science .
+
+#what is the flow :-
+ index.html -> main.jsx <- App.jsx
+ (root)
+
+-> whatever we write on App.jsx we have to show that only . 

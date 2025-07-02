@@ -1,0 +1,6 @@
+->React is a JS library for creating UI .
+->If we create anything with the help of React it's a component . 
+->and we render the component and call the function .
+-> we use hierarchy of component to build UI .
+->React is all about building a components ones and use again and again . 
+->JSX is a way where you can write html inside javascript .

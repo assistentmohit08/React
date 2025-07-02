@@ -1,0 +1,5 @@
+->jsx stands for javascript extension syntax .
+->It lets us write html directly inside JS .
+->jsx is not fully javascript code , for that we use transpile jsx , and babel do the transpile for converting jsx to javascript . and its not seen by us that is done by automatically .
+-> the first rule is we can return only one single root element that's why we create div and all thing put in there .
+->in jsx always have to be closing tag .for doing conversion clearly by pabble .
